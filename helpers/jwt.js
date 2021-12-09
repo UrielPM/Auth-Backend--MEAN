@@ -17,14 +17,10 @@ const generarJWT = ( uid, name ) => {
         } else {
             //TODO BIEN 
             resolve(token)
-
         }
-
     })
 
     });
-
- 
 }
 
 
